@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "project": "sales-funnel-analyzer",
+  "settings": {
+    "currency": "USD",
+    "targetLeadRate": 5
+  },
+  "records": [
+    {
+      "id": "cohort-1",
+      "name": "October search cohort",
+      "visitors": 1000,
+      "leads": 100,
+      "qualified": 60,
+      "quotes": 30,
+      "sales": 10,
+      "revenue": 10000
+    },
+    {
+      "id": "cohort-2",
+      "name": "October referral cohort",
+      "visitors": 200,
+      "leads": 40,
+      "qualified": 20,
+      "quotes": 10,
+      "sales": 5,
+      "revenue": 7500
+    }
+  ]
+}
