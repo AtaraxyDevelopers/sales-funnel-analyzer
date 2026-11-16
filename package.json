@@ -1,6 +1,6 @@
 {
   "name": "@ataraxydevelopers/sales-funnel-analyzer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "type": "module",
   "description": "Find the largest conversion losses across comparable sales cohorts.",

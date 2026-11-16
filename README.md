@@ -1,3 +1,5 @@
+<p><a href="https://ataraxydevelopers.com"><img src="public/ataraxy-developers-logo.png" alt="Ataraxy Developers — Turning Digital Visions Into Reality" width="520"></a></p>
+
 # Sales Funnel Analyzer
 
 [![CI](https://github.com/AtaraxyDevelopers/sales-funnel-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/AtaraxyDevelopers/sales-funnel-analyzer/actions/workflows/ci.yml)
